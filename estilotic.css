@@ -1,0 +1,15 @@
+p.aviso
+{
+    color: red
+}
+p.Aviso
+{
+color:blue
+}
+p{
+    font-style:oblique;
+}
+p.letra
+{
+    font-style: italic;
+}
